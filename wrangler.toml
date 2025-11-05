@@ -1,0 +1,7 @@
+name = "bexnime"
+compatibility_date = "2025-10-04"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[vars]
+BASEURL = "https://otakudesu.best"
